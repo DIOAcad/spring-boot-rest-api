@@ -35,8 +35,8 @@ http://localhost:8080/swagger-ui/
 - `Estrutura básica`: O `README.md` começa com uma introdução ao projeto e às tecnologias utilizadas.
 - `Instruções de configuração`: Fornecemos passos detalhados sobre como clonar, instalar dependências e executar o projeto.
 - `Endpoints`: Listamos os endpoints disponíveis na API, facilitando a navegação para quem utilizar o projeto.
-## Diagrama de Classes
 
+## Diagrama de Classes
 ```mermaid
 classDiagram
     class Product {
